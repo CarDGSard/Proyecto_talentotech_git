@@ -6,3 +6,10 @@ h1{
     text-align: center;
     margin: 10%;
 }
+.informacion_sobre_git p {
+    color: white;
+    font-size: large;
+    text-align: justify;
+    text-align: center;
+
+}
